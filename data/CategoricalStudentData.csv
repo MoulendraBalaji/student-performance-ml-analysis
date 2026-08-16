@@ -1,0 +1,501 @@
+Parental_Involvement,School_Type,Gender,Parental_Education_Level,Internet_Access,Exam_Score
+Medium,Private,Male,College,Yes,70.9
+High,Public,Female,College,Yes,72.5
+High,Public,Female,High School,Yes,67.9
+Medium,Private,Female,High School,Yes,70.0
+Low,Private,Female,College,No,47.5
+Low,Public,Male,College,No,59.4
+Low,Private,Female,High School,No,54.7
+High,Private,Male,College,Yes,61.8
+Medium,Private,Male,High School,Yes,65.6
+High,Private,Male,College,Yes,77.9
+Low,Private,Male,High School,Yes,57.3
+High,Public,Male,College,No,70.8
+High,Private,Female,High School,Yes,78.1
+Low,Private,Female,College,Yes,69.6
+Low,Public,Female,High School,Yes,65.2
+Low,Public,Female,High School,Yes,60.7
+Medium,Public,Male,High School,Yes,60.4
+Medium,Private,Female,College,Yes,60.0
+Medium,Private,Male,College,Yes,64.8
+Low,Public,Female,High School,Yes,52.8
+Medium,Public,Male,College,Yes,73.9
+Low,Public,Male,Postgraduate,Yes,60.1
+Low,Private,Female,College,No,61.6
+Medium,Private,Male,High School,No,63.8
+Medium,Private,Male,College,Yes,66.2
+High,Public,Female,High School,Yes,75.5
+Low,Public,Male,High School,Yes,51.9
+Medium,Public,Female,Postgraduate,Yes,69.0
+Medium,Public,Female,High School,Yes,58.3
+Low,Private,Female,College,No,54.4
+Medium,Private,Male,College,Yes,62.9
+Low,Private,Male,College,No,58.8
+Low,Private,Male,College,Yes,58.9
+High,Public,Female,High School,Yes,63.5
+High,Private,Male,High School,Yes,61.0
+High,Private,Female,College,No,70.6
+Medium,Private,Female,High School,Yes,57.5
+Low,Public,Male,High School,Yes,58.8
+Medium,Public,Female,High School,Yes,62.4
+Medium,Public,Male,High School,Yes,52.7
+Low,Private,Male,High School,Yes,56.5
+Medium,Private,Male,High School,Yes,59.2
+Low,Public,Male,College,Yes,59.6
+High,Private,Male,College,Yes,77.7
+Low,Private,Female,Postgraduate,Yes,56.6
+Medium,Public,Female,High School,Yes,62.6
+Medium,Public,Female,High School,Yes,61.2
+Medium,Private,Male,High School,Yes,66.4
+Medium,Public,Male,College,Yes,64.1
+Low,Private,Male,College,Yes,57.2
+High,Public,Female,High School,No,63.4
+High,Private,Male,Postgraduate,Yes,70.0
+High,Public,Female,High School,Yes,72.4
+High,Public,Female,College,Yes,70.1
+Medium,Private,Male,College,Yes,75.5
+High,Public,Male,Postgraduate,Yes,70.7
+Low,Public,Female,College,Yes,56.5
+Low,Public,Male,Postgraduate,Yes,53.4
+Low,Private,Female,High School,Yes,51.0
+Medium,Private,Male,Postgraduate,Yes,61.1
+Medium,Private,Male,High School,Yes,64.3
+Low,Public,Female,Postgraduate,Yes,65.5
+High,Public,Male,College,Yes,60.1
+Medium,Public,Female,Postgraduate,Yes,72.5
+Low,Public,Male,College,Yes,55.6
+Medium,Public,Female,College,No,63.7
+Low,Public,Female,College,Yes,68.1
+High,Public,Male,College,Yes,72.5
+Low,Private,Female,High School,Yes,58.7
+High,Public,Male,High School,Yes,60.5
+High,Public,Male,High School,Yes,54.2
+Low,Private,Male,High School,Yes,54.4
+Low,Public,Female,Postgraduate,Yes,61.9
+High,Private,Female,High School,Yes,65.1
+High,Private,Male,Postgraduate,Yes,73.3
+High,Private,Male,High School,Yes,68.4
+High,Public,Female,High School,Yes,65.9
+Low,Private,Male,College,No,55.7
+Medium,Public,Male,College,Yes,63.8
+Low,Public,Female,College,Yes,62.2
+High,Public,Male,College,No,60.5
+Medium,Private,Female,College,Yes,75.1
+Medium,Public,Male,High School,Yes,59.5
+Low,Public,Female,Postgraduate,Yes,63.1
+Medium,Private,Male,Postgraduate,No,70.5
+Medium,Public,Male,College,Yes,64.2
+High,Public,Female,High School,Yes,71.8
+Medium,Public,Male,College,Yes,64.4
+High,Public,Female,High School,No,61.9
+Medium,Public,Male,High School,Yes,61.8
+Low,Public,Female,High School,Yes,51.3
+High,Private,Female,College,Yes,73.5
+High,Public,Female,Postgraduate,Yes,72.8
+Medium,Public,Female,College,Yes,64.0
+High,Private,Male,College,No,68.4
+Medium,Public,Male,College,Yes,53.6
+Medium,Private,Female,High School,Yes,62.3
+Medium,Public,Female,High School,Yes,62.5
+Low,Public,Female,Postgraduate,No,61.8
+Low,Public,Male,High School,Yes,49.9
+Low,Public,Male,Postgraduate,Yes,67.3
+Medium,Public,Male,College,No,56.7
+Medium,Public,Male,College,No,65.8
+Medium,Public,Female,College,No,65.1
+High,Public,Female,College,No,64.8
+Low,Public,Female,Postgraduate,Yes,71.9
+Medium,Public,Male,Postgraduate,Yes,60.0
+High,Public,Male,College,Yes,72.6
+Low,Public,Male,High School,No,58.0
+Low,Private,Female,College,Yes,59.6
+Low,Public,Female,Postgraduate,Yes,70.0
+Low,Private,Male,High School,Yes,56.7
+High,Private,Female,College,Yes,74.4
+High,Public,Male,College,Yes,69.3
+Medium,Private,Male,College,No,63.3
+High,Private,Female,High School,No,72.1
+High,Public,Male,College,Yes,72.0
+Low,Public,Female,Postgraduate,Yes,54.3
+High,Private,Male,High School,Yes,74.5
+Medium,Private,Female,High School,Yes,56.7
+High,Public,Female,Postgraduate,No,76.2
+High,Public,Female,High School,Yes,72.6
+Medium,Public,Male,Postgraduate,Yes,60.5
+Low,Public,Male,College,No,53.9
+Low,Private,Female,High School,Yes,54.5
+Medium,Public,Female,Postgraduate,Yes,66.9
+High,Public,Male,College,Yes,66.5
+High,Private,Male,College,Yes,74.9
+Low,Public,Male,High School,Yes,61.6
+Medium,Public,Female,College,Yes,72.0
+Medium,Private,Male,High School,Yes,60.2
+Low,Private,Male,High School,No,55.0
+Low,Public,Female,Postgraduate,Yes,54.6
+Medium,Public,Male,High School,Yes,56.0
+High,Public,Male,College,Yes,72.8
+Medium,Public,Male,High School,Yes,68.1
+Medium,Public,Female,College,Yes,58.8
+High,Public,Female,High School,Yes,64.0
+Medium,Public,Female,Postgraduate,Yes,67.9
+High,Public,Female,College,No,69.4
+High,Public,Female,High School,Yes,63.0
+Low,Public,Female,High School,Yes,59.1
+Medium,Public,Female,High School,No,57.6
+Medium,Public,Male,College,Yes,62.9
+Low,Public,Male,High School,Yes,57.7
+Low,Private,Female,Postgraduate,Yes,66.0
+Medium,Public,Male,College,Yes,60.8
+Medium,Private,Male,High School,Yes,62.5
+Low,Private,Female,College,Yes,62.6
+Low,Public,Male,College,Yes,56.1
+High,Public,Male,High School,Yes,63.7
+Low,Public,Male,High School,Yes,63.0
+Low,Public,Male,High School,Yes,57.8
+Medium,Private,Male,College,Yes,64.5
+High,Public,Female,College,Yes,73.5
+Low,Public,Female,College,Yes,58.3
+Medium,Public,Female,Postgraduate,No,71.9
+High,Public,Male,Postgraduate,Yes,72.8
+Low,Private,Female,College,Yes,62.5
+High,Public,Male,Postgraduate,Yes,73.2
+Medium,Public,Male,High School,Yes,52.1
+Medium,Private,Male,High School,No,55.4
+Medium,Private,Male,High School,No,55.0
+Medium,Public,Female,High School,Yes,62.7
+Low,Public,Female,College,Yes,68.7
+High,Public,Male,Postgraduate,Yes,82.2
+Medium,Public,Female,High School,No,63.2
+Low,Public,Male,High School,Yes,57.5
+Low,Public,Female,College,Yes,51.0
+Medium,Public,Female,Postgraduate,Yes,65.3
+Medium,Public,Male,High School,Yes,56.1
+Low,Private,Female,College,Yes,59.9
+Medium,Public,Male,High School,Yes,59.2
+Low,Public,Female,High School,Yes,54.6
+Medium,Public,Male,Postgraduate,Yes,56.1
+Low,Private,Male,Postgraduate,Yes,67.7
+Medium,Public,Female,High School,Yes,56.6
+Medium,Public,Female,Postgraduate,Yes,69.2
+High,Private,Male,College,Yes,81.4
+Low,Private,Female,Postgraduate,Yes,61.4
+Medium,Private,Female,College,Yes,55.3
+Low,Public,Male,College,Yes,56.6
+High,Public,Male,College,Yes,73.5
+High,Private,Female,College,Yes,82.8
+Low,Private,Male,High School,Yes,51.9
+Medium,Public,Male,High School,No,60.5
+High,Public,Male,High School,Yes,62.7
+Medium,Public,Female,College,No,62.5
+Medium,Private,Female,High School,Yes,78.2
+Low,Public,Male,College,Yes,50.5
+Low,Public,Female,Postgraduate,Yes,64.3
+High,Public,Male,High School,Yes,67.3
+High,Public,Female,College,Yes,75.4
+Medium,Public,Male,College,Yes,63.5
+Medium,Public,Male,Postgraduate,Yes,67.5
+Medium,Private,Female,High School,Yes,63.0
+High,Public,Male,College,Yes,69.3
+High,Public,Female,Postgraduate,Yes,71.3
+High,Public,Female,Postgraduate,Yes,76.1
+High,Public,Male,College,Yes,66.2
+Medium,Public,Male,College,Yes,64.9
+Low,Public,Female,College,Yes,59.9
+Low,Public,Male,Postgraduate,Yes,66.6
+High,Public,Male,College,Yes,67.7
+Medium,Public,Male,High School,No,49.1
+Low,Private,Male,Postgraduate,No,68.3
+Low,Public,Male,College,Yes,53.5
+Medium,Private,Female,College,Yes,64.7
+Low,Public,Female,High School,Yes,54.0
+Low,Private,Male,College,Yes,67.9
+Medium,Private,Male,High School,Yes,52.3
+Medium,Public,Male,College,Yes,78.7
+Medium,Public,Female,High School,No,65.3
+Low,Public,Male,College,Yes,59.1
+High,Public,Female,Postgraduate,Yes,72.7
+Low,Private,Female,High School,Yes,61.4
+Medium,Private,Female,Postgraduate,Yes,73.6
+High,Private,Male,College,Yes,74.2
+Medium,Public,Female,Postgraduate,Yes,70.8
+High,Private,Male,College,Yes,71.4
+Medium,Private,Female,College,Yes,67.0
+Medium,Public,Male,College,No,60.2
+Low,Public,Female,Postgraduate,Yes,62.0
+Medium,Private,Male,College,Yes,71.7
+Low,Public,Female,High School,Yes,60.0
+Low,Private,Male,College,No,44.3
+High,Public,Male,Postgraduate,Yes,74.3
+Medium,Private,Male,College,Yes,67.0
+High,Public,Male,College,No,65.9
+Medium,Public,Female,College,No,61.1
+High,Public,Female,Postgraduate,Yes,78.6
+Medium,Private,Male,High School,No,65.7
+Medium,Private,Female,College,Yes,64.1
+Medium,Public,Male,High School,Yes,62.0
+Low,Public,Male,High School,Yes,50.1
+High,Private,Female,High School,Yes,63.1
+Low,Public,Male,High School,Yes,51.9
+Low,Private,Male,College,Yes,65.3
+Medium,Public,Female,High School,Yes,66.8
+Low,Public,Male,College,Yes,60.6
+High,Public,Male,High School,Yes,68.6
+High,Public,Male,High School,Yes,67.6
+High,Private,Male,High School,Yes,64.8
+Medium,Public,Female,High School,Yes,64.2
+Low,Public,Female,College,Yes,64.0
+High,Private,Female,College,Yes,76.8
+Medium,Public,Male,College,No,66.9
+High,Public,Male,College,Yes,71.5
+High,Private,Female,High School,Yes,71.8
+High,Private,Male,Postgraduate,Yes,79.4
+Low,Public,Male,College,Yes,57.9
+Medium,Private,Male,College,Yes,61.6
+High,Private,Male,High School,No,65.2
+Medium,Public,Female,High School,Yes,58.3
+Low,Public,Female,High School,Yes,53.6
+Medium,Private,Female,High School,Yes,64.3
+High,Private,Male,College,Yes,67.0
+Medium,Public,Female,College,Yes,63.5
+Medium,Private,Female,College,Yes,58.5
+Low,Private,Male,College,Yes,62.1
+Medium,Public,Male,Postgraduate,Yes,66.0
+High,Public,Female,College,Yes,65.9
+Low,Public,Female,Postgraduate,No,64.3
+Medium,Private,Female,High School,Yes,69.7
+High,Public,Female,High School,Yes,59.0
+High,Public,Male,High School,Yes,61.2
+Medium,Private,Female,College,Yes,64.2
+High,Private,Female,Postgraduate,No,69.3
+Medium,Public,Male,High School,Yes,64.1
+Low,Private,Female,Postgraduate,Yes,65.0
+High,Public,Male,High School,No,61.7
+High,Private,Male,Postgraduate,Yes,64.0
+High,Public,Male,High School,No,66.2
+High,Public,Female,High School,Yes,60.8
+Medium,Private,Female,College,Yes,68.3
+Medium,Public,Male,High School,Yes,61.4
+High,Public,Female,High School,Yes,73.8
+Medium,Private,Female,High School,No,56.5
+High,Private,Male,Postgraduate,Yes,58.9
+High,Private,Male,College,Yes,71.9
+High,Private,Female,High School,Yes,79.0
+Medium,Public,Male,College,Yes,69.2
+Medium,Public,Female,College,Yes,66.0
+Low,Public,Female,High School,No,52.5
+Medium,Public,Female,College,Yes,69.0
+Low,Private,Female,High School,Yes,55.1
+Medium,Public,Male,High School,Yes,62.4
+Medium,Public,Male,College,Yes,65.5
+Low,Public,Male,High School,Yes,60.3
+Medium,Private,Male,College,Yes,79.8
+Low,Public,Female,College,No,60.0
+Low,Public,Female,High School,Yes,54.5
+High,Public,Male,College,Yes,67.9
+Medium,Private,Female,High School,Yes,56.2
+Low,Public,Female,Postgraduate,No,57.5
+Medium,Private,Female,College,Yes,66.0
+High,Private,Male,Postgraduate,Yes,71.4
+Low,Public,Male,College,Yes,58.8
+Medium,Private,Male,High School,Yes,58.9
+Low,Private,Female,College,Yes,68.6
+Low,Private,Male,Postgraduate,Yes,64.0
+Medium,Public,Male,College,Yes,63.0
+Medium,Public,Male,Postgraduate,Yes,64.4
+Medium,Private,Male,Postgraduate,No,67.8
+High,Public,Male,High School,No,67.1
+High,Private,Male,High School,Yes,63.7
+Medium,Private,Female,College,Yes,64.7
+Medium,Private,Female,College,Yes,66.5
+High,Public,Male,Postgraduate,Yes,64.3
+Low,Public,Male,Postgraduate,Yes,56.9
+Medium,Private,Female,High School,Yes,62.6
+Low,Private,Female,High School,Yes,64.4
+Low,Public,Male,College,No,57.3
+High,Private,Male,High School,Yes,69.0
+High,Private,Male,Postgraduate,Yes,78.3
+Medium,Public,Male,College,Yes,62.3
+Medium,Public,Female,College,Yes,67.0
+Low,Public,Male,High School,Yes,54.5
+Low,Public,Male,College,Yes,59.3
+Low,Public,Male,College,Yes,55.1
+Medium,Private,Male,College,Yes,53.8
+High,Public,Female,High School,Yes,66.3
+Medium,Public,Female,College,Yes,72.1
+Low,Public,Female,Postgraduate,No,65.6
+High,Public,Male,High School,No,67.8
+High,Private,Male,High School,No,72.2
+Medium,Public,Female,High School,Yes,62.4
+Medium,Public,Male,College,Yes,64.0
+Medium,Private,Male,College,No,60.9
+Low,Public,Female,College,Yes,58.4
+Medium,Public,Female,High School,Yes,65.1
+High,Public,Female,High School,Yes,73.0
+Low,Public,Female,College,Yes,59.3
+Low,Public,Male,College,No,53.7
+Low,Public,Male,Postgraduate,Yes,61.0
+Low,Public,Female,High School,Yes,60.0
+High,Private,Male,College,Yes,63.8
+High,Public,Female,College,Yes,58.5
+Medium,Public,Female,College,No,60.2
+Low,Private,Male,College,Yes,54.9
+Medium,Public,Female,College,Yes,62.5
+Medium,Private,Male,Postgraduate,No,66.3
+Low,Public,Male,High School,Yes,52.7
+Medium,Private,Male,High School,Yes,70.3
+Medium,Public,Male,College,Yes,64.6
+Medium,Public,Female,College,Yes,66.5
+Medium,Public,Male,High School,Yes,63.1
+Low,Private,Female,High School,Yes,54.3
+Medium,Public,Female,High School,Yes,67.2
+Medium,Public,Female,Postgraduate,Yes,67.6
+Medium,Public,Female,High School,No,63.4
+High,Private,Male,High School,Yes,62.6
+Medium,Public,Male,High School,Yes,52.2
+Low,Private,Female,High School,Yes,64.1
+Low,Public,Female,High School,Yes,58.9
+Medium,Public,Male,College,Yes,58.5
+Low,Public,Female,High School,No,50.7
+Medium,Public,Male,Postgraduate,No,69.6
+High,Public,Female,High School,Yes,61.1
+Medium,Public,Male,College,No,69.2
+Medium,Private,Female,Postgraduate,Yes,66.5
+Medium,Public,Female,College,Yes,68.2
+Medium,Public,Male,College,Yes,61.4
+Medium,Public,Female,High School,No,63.0
+High,Public,Female,High School,Yes,64.3
+Medium,Public,Male,College,Yes,62.2
+High,Public,Female,Postgraduate,Yes,73.2
+High,Public,Male,College,Yes,63.0
+Low,Private,Male,College,Yes,64.7
+Low,Private,Female,College,No,58.4
+Low,Public,Female,College,No,56.9
+Low,Public,Female,High School,Yes,52.0
+Low,Private,Female,College,No,48.2
+Medium,Public,Female,Postgraduate,Yes,67.0
+Low,Public,Female,High School,No,67.1
+Medium,Public,Female,College,Yes,68.9
+High,Private,Male,High School,Yes,67.9
+Low,Private,Female,College,Yes,61.7
+High,Public,Male,High School,No,63.1
+Low,Public,Female,College,Yes,62.7
+Low,Public,Female,College,Yes,54.1
+Medium,Private,Male,High School,Yes,68.6
+Medium,Public,Female,College,Yes,68.6
+High,Public,Female,College,Yes,73.6
+High,Private,Male,Postgraduate,Yes,76.2
+High,Public,Female,High School,No,65.1
+Low,Private,Female,High School,Yes,63.4
+Low,Public,Female,High School,Yes,60.0
+High,Public,Male,Postgraduate,Yes,69.2
+High,Public,Female,Postgraduate,No,68.1
+High,Private,Female,College,No,71.5
+Medium,Private,Female,Postgraduate,Yes,78.7
+Medium,Private,Female,College,Yes,61.8
+High,Public,Male,College,Yes,60.7
+Medium,Private,Male,High School,Yes,63.8
+High,Public,Female,College,No,68.3
+High,Public,Female,High School,Yes,67.9
+Medium,Private,Male,Postgraduate,Yes,70.2
+High,Public,Male,College,Yes,66.9
+High,Public,Female,College,No,75.4
+Low,Public,Male,High School,Yes,47.0
+High,Public,Female,High School,Yes,62.9
+Medium,Public,Male,High School,Yes,59.5
+High,Public,Male,High School,No,54.8
+Medium,Public,Male,High School,Yes,59.1
+High,Private,Male,Postgraduate,Yes,82.3
+Medium,Private,Female,College,Yes,68.1
+Low,Public,Male,High School,Yes,56.2
+High,Public,Male,High School,Yes,58.7
+Low,Public,Female,College,Yes,56.9
+Medium,Public,Male,College,Yes,61.1
+High,Public,Male,College,Yes,66.4
+High,Private,Female,Postgraduate,Yes,82.4
+Medium,Public,Male,College,No,63.8
+Medium,Public,Female,Postgraduate,Yes,62.4
+Medium,Public,Female,Postgraduate,No,67.2
+Low,Public,Female,High School,Yes,59.5
+Medium,Private,Female,Postgraduate,Yes,76.7
+Medium,Private,Male,High School,Yes,70.9
+High,Public,Female,Postgraduate,Yes,67.9
+High,Private,Male,High School,Yes,63.9
+High,Public,Male,Postgraduate,Yes,64.7
+Low,Private,Male,Postgraduate,Yes,62.8
+Medium,Private,Male,Postgraduate,No,69.3
+Low,Public,Male,College,Yes,62.9
+Medium,Public,Male,High School,No,57.6
+Medium,Public,Male,High School,Yes,58.4
+High,Public,Male,College,Yes,68.8
+Medium,Private,Male,High School,Yes,58.8
+Low,Public,Male,College,Yes,68.4
+Low,Public,Female,High School,Yes,49.0
+High,Private,Female,Postgraduate,Yes,76.9
+Medium,Private,Female,College,Yes,78.1
+Low,Public,Male,Postgraduate,Yes,61.0
+Low,Public,Female,High School,Yes,56.0
+High,Public,Female,Postgraduate,No,69.2
+Low,Public,Female,Postgraduate,No,60.1
+High,Private,Male,College,Yes,77.9
+High,Public,Male,College,Yes,56.9
+Low,Public,Male,College,Yes,65.7
+Low,Public,Male,High School,Yes,47.9
+High,Public,Female,College,No,66.7
+Medium,Private,Female,High School,Yes,62.9
+Medium,Private,Female,High School,Yes,67.9
+High,Public,Female,High School,Yes,59.0
+High,Public,Male,High School,Yes,67.3
+High,Public,Male,High School,Yes,75.1
+High,Private,Male,High School,No,59.2
+Medium,Private,Female,Postgraduate,Yes,71.9
+Low,Public,Male,College,Yes,54.7
+High,Private,Male,Postgraduate,No,74.1
+Medium,Private,Female,College,Yes,68.1
+Medium,Public,Female,High School,Yes,58.8
+High,Private,Male,College,Yes,73.4
+Low,Public,Male,College,Yes,67.0
+Medium,Public,Male,High School,No,57.0
+Low,Public,Male,College,Yes,61.6
+Medium,Public,Male,High School,No,51.5
+Low,Public,Male,College,Yes,53.2
+Low,Private,Female,College,No,63.4
+Low,Public,Female,High School,Yes,64.4
+Medium,Private,Female,High School,No,64.8
+High,Public,Male,College,Yes,66.4
+Medium,Public,Female,College,No,63.0
+High,Public,Male,High School,Yes,58.7
+Medium,Public,Male,Postgraduate,Yes,69.0
+Low,Private,Female,High School,No,62.4
+High,Public,Male,College,Yes,65.7
+Low,Public,Male,Postgraduate,No,56.6
+High,Public,Female,High School,Yes,68.3
+Low,Private,Female,High School,Yes,57.8
+High,Private,Female,High School,Yes,69.7
+Low,Private,Male,High School,Yes,68.5
+High,Public,Female,High School,Yes,65.8
+Medium,Public,Female,College,Yes,63.2
+High,Public,Male,High School,Yes,61.8
+Low,Public,Female,College,Yes,63.7
+Medium,Public,Female,Postgraduate,Yes,67.1
+High,Public,Female,Postgraduate,Yes,69.8
+Medium,Public,Male,College,Yes,69.6
+Medium,Public,Male,High School,Yes,67.1
+Medium,Private,Male,College,Yes,63.0
+Medium,Public,Male,College,No,51.7
+Medium,Public,Female,College,No,68.0
+Medium,Private,Male,High School,Yes,59.6
+High,Public,Male,Postgraduate,Yes,75.0
+Low,Private,Female,College,No,51.1
+Low,Public,Female,High School,Yes,61.5
+High,Public,Female,High School,Yes,60.9
+High,Private,Male,College,Yes,74.7
+Medium,Private,Male,Postgraduate,Yes,69.1
+Medium,Private,Male,College,Yes,61.2
+Low,Public,Female,College,Yes,58.0
+Low,Public,Female,High School,No,58.4
+Medium,Public,Male,College,No,61.5
+Medium,Public,Female,College,Yes,67.9
+Medium,Private,Female,High School,Yes,74.9
+Low,Public,Female,High School,No,47.2
+High,Private,Male,College,Yes,79.1
+High,Public,Female,High School,Yes,67.5

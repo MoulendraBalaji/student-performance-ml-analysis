@@ -1,0 +1,17 @@
+# Core scientific stack
+pandas==3.0.2
+numpy==2.4.2
+scipy==1.17.1
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Statistical inference
+statsmodels==0.14.6
+
+# Machine learning
+scikit-learn==1.8.0
+
+# Notebook execution
+jupyter>=1.0.0
+nbconvert>=7.0.0
+ipykernel>=7.0.0
