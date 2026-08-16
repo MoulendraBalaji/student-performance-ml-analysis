@@ -88,6 +88,32 @@ The target variable is **`Exam_Score`** (continuous, range 55–101).
 | Ridge Regression | 0.6888 | 2.0974 | 1.0155 |
 | Random Forest | 0.6607 | 2.1901 | 1.1182 |
 
+### Visual results
+
+#### Distribution of the target variable
+
+![Exam Score Distribution](results/exam_score_distribution.png)
+
+#### Correlation matrix (numeric features)
+
+![Correlation Heatmap](results/correlation_heatmap.png)
+
+#### Categorical factors vs exam score
+
+![Categorical Boxplots](results/categorical_boxplots.png)
+
+#### Multiple regression diagnostics
+
+![MLR Diagnostics](results/mlr_diagnostics.png)
+
+#### Feature importance (best model)
+
+![Feature Importance](results/feature_importance.png)
+
+#### Actual vs predicted (best model)
+
+![Actual vs Predicted](results/pred_vs_actual.png)
+
 ## Getting Started
 
 ### Prerequisites
